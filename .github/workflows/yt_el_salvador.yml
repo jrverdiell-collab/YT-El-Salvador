@@ -2,7 +2,7 @@ name: YT El Salvador semanal
 
 on:
   schedule:
-    - cron: '0 2 * * 2'
+    - cron: '20 4 * * 6'
   workflow_dispatch:
 
 jobs:
